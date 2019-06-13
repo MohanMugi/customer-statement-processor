@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "company.name",
+    "type": "java.lang.String",
+    "description": "A description for 'company.name'"
+  },
+  {
+    "name": "company.website",
+    "type": "java.lang.String",
+    "description": "A description for 'company.website'"
+  },
+  {
+    "name": "company.email",
+    "type": "java.lang.String",
+    "description": "A description for 'company.email'"
+  },
+  {
+    "name": "company.license.url",
+    "type": "java.lang.String",
+    "description": "A description for 'company.license.url'"
+  },
+  {
+    "name": "swagger.config.api.basepackage",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.config.api.basepackage'"
+  },
+  {
+    "name": "api.version",
+    "type": "java.lang.String",
+    "description": "A description for 'api.version'"
+  },
+  {
+    "name": "api.description",
+    "type": "java.lang.String",
+    "description": "A description for 'api.description'"
+  },
+  {
+    "name": "api.title",
+    "type": "java.lang.String",
+    "description": "A description for 'api.title'"
+  },
+  {
+    "name": "swagger.config.api.path",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.config.api.path'"
+  }
+]}
