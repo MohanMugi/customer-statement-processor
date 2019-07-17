@@ -1,0 +1,16 @@
+<records>
+  <record reference="130498">
+    <accountNumber>NL69ABNA0433647324</accountNumber>
+    <description>Tickets for Peter Theuß</description>
+    <startBalance>26.9</startBalance>
+    <mutation>-18.78</mutation>
+    <endBalance>8.12</endBalance>
+  </record>
+  <record>
+    <accountNumber>NL93ABNA0585619023</accountNumber>
+    <description>Tickets from Erik de Vries</description>
+    <startBalance>5429</startBalance>
+    <mutation>-939</mutation>
+    <endBalance>6368endBalance>
+  </record>
+ </records>
